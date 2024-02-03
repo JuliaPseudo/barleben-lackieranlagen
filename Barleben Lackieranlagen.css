@@ -67,15 +67,12 @@ p {
 .main-body {
   background-color: rgba(230, 255, 200, 0.9);
   border: 2px solid #d3e698;
-  margin-top: 25px;
-  margin-right: 100px;
-  margin-bottom: 25px;
-  margin-left: 100px;
+  margin: auto;
   padding-top: 5px;
   padding-right: 10px;
   padding-bottom: 5px;
   padding-left: 10px;
-  width: 100%;
+  width: 80%;
   max-width: 800px;
 }
 
