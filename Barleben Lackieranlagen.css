@@ -1,0 +1,142 @@
+a {
+  color: inherit;
+}
+
+body {
+  background-attachment: fixed;
+  background-image: url("body-repair.jpg");
+  background-position: top;
+  background-repeat: repeat-x;
+  font-family: Baskerville, 'Times New Roman', Times, serif;
+}
+
+p {
+  font-size: 20px;
+  color: black;
+}
+
+.contact {
+  background-color: #b8d75b;
+  border-color: #000033;
+  border-style: groove ridge ridge groove;
+  border-width: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5px;
+}
+
+.contact li {
+  line-height: 1.4;
+}
+
+.contact h2 {
+  margin: 5px 0px;
+}
+
+.contact ul {
+  list-style-type: none;
+  margin: 0px 0px 5px 0px;
+  padding: 0px;
+}
+
+.contact-left {
+  color: white;
+  padding-right: 10px;
+  text-align: right;
+}
+
+.square-blue {
+  color: #000033;
+}
+
+.contact-right {
+  color: #000033;
+  padding-left: 10px;
+  text-align: left;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  outline: 2px solid mediumseagreen;
+  width: 100%;
+  max-width: 750px;
+}
+
+.main-body {
+  background-color: rgba(230, 255, 200, 0.9);
+  border: 2px solid #d3e698;
+  margin-top: 25px;
+  margin-right: 100px;
+  margin-bottom: 25px;
+  margin-left: 100px;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+}
+
+.services {
+  background-color: #000033;
+  border-color: #d3e698;
+  border-style: groove ridge ridge groove;
+  border-width: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5px;
+}
+
+.services li {
+  line-height: 1.4;
+}
+
+.services h2 {
+  margin: 5px 0px;
+}
+
+.services ul {
+  list-style-type: none;
+  margin: 0px 0px 5px 0px;
+  padding: 0px;
+}
+
+.services-left {
+  color: white;
+  padding-right: 10px;
+  text-align: right;
+}
+
+.square-green {
+  color: #d3e698;
+}
+
+.services-right {
+  color: #d3e698;
+  padding-left: 10px;
+  text-align: left;
+}
+
+.title {
+  text-align: center;
+}
+
+.weblink {
+  background-color: white;
+  border-color: #d3e698;
+  border-style: groove ridge ridge groove;
+  border-width: 4px;
+  color: olivedrab;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 1.5em;
+  letter-spacing: 0.5em;
+  margin: 1px 0px;
+  padding: 5px;
+}
+
+.weblink .barleben {
+  color: #000033;
+}
